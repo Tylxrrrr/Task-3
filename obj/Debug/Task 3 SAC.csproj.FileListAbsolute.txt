@@ -1,0 +1,11 @@
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\bin\Debug\Task 3 SAC.exe.config
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\bin\Debug\Task 3 SAC.exe
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\bin\Debug\Task 3 SAC.pdb
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task 3 SAC.csproj.AssemblyReference.cache
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task 3 SAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task_3_SAC.Form1.resources
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task_3_SAC.Properties.Resources.resources
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task 3 SAC.csproj.GenerateResource.cache
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task 3 SAC.csproj.CoreCompileInputs.cache
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task 3 SAC.exe
+C:\Users\Hung\source\repos\Task 3 SAC\Task 3 SAC\obj\Debug\Task 3 SAC.pdb
